@@ -1,4 +1,4 @@
-hiring@blaash.io## Playlist Management System
+## Playlist Management System
 
 Blaash is a playlist management system that allows users to import playlists from YouTube, create new playlists, and interact with a modern front-end interface. Users can sign in with an OTP, view their playlists, and drag and drop them to customize their video library.
 
